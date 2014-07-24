@@ -21,44 +21,6 @@ body.img-wall body{
     display: block;
 }
 
-/* body .wall-op{  7-13-icon关闭按钮在style.csss中有样式不在框架中
-    background-color: #F7F7F7;
-    height: 33px;
-    width: 100%;
-    border-bottom: 1px solid #DBDBDB;
-} 
- body .wall-op a{     
-    display: inline-block;
-    padding: 10px;
-    margin-right: 6px;
-    background: url(images/spirit3.png) no-repeat right center;
-    position: absolute;
-    right: 0px;
-    top: 6px;
-} */
-
-/* body .wall-op a.refresh{ 7-13icon-font
-    right: 28px;   
-} */
-
-/* body .wall-op a:hover{
-    background-color: #20B0A4;
-} */
-
-/* body .wall-op a.refresh{   7-13-icon-font 
-    background-position:-3px -578px;
-}
-body .wall-op a.refresh:hover{
-    background-position: -28px -578px;
-}
- */
-/* body .wall-op a.close{
-    background-position: -28px -277px;
-}
-body .wall-op a.close:hover{
-    background-position: -3px -277px;
-} *//*=====×îÍâ²ãdiv==end====*/
-
 body .wall-header{
     margin:10px 0 0 0;
     /*margin: 0 auto;*/
